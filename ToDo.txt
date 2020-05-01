@@ -3,3 +3,8 @@ Ustawić plany
 Jebać HCI
 Spotkanie 1. Piątek 10-12 (Zrobić laby z AI dla doświadczenia)
 Potem co 2-3 dni
+-----------------------
+Spotkanie 2. Poniedziałek po labach z AI
+Zaznajomić się z kodem środwiska
+Zobaczyć implementację agentów w innych rozwiązaniach
+(opcjonalne) zacząć pisać agenta
