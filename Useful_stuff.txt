@@ -5,3 +5,8 @@ https://github.com/openai/gym/blob/master/gym/core.py
 
 2. Potentialy useful stuff:
 https://www.youtube.com/playlist?list=PLvGnuYIsH-tJEBU_GK5v54luF7kFZBdM4
+
+
+3. Libraries: 
+https://www.tensorflow.org/overview -- TensorFlow
+https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html -- PyTorch
