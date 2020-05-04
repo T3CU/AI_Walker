@@ -1,0 +1,7 @@
+1. Dokumentacja:
+https://github.com/openai/gym/blob/master/gym/core.py
+
+
+
+2. Potentialy useful stuff:
+https://www.youtube.com/playlist?list=PLvGnuYIsH-tJEBU_GK5v54luF7kFZBdM4
