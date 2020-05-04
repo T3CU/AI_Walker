@@ -8,3 +8,7 @@ Spotkanie 2. Poniedziałek po labach z AI
 Zaznajomić się z kodem środwiska
 Zobaczyć implementację agentów w innych rozwiązaniach
 (opcjonalne) zacząć pisać agenta
+-----------------------
+Spotkanie 3. Środa między 16-18
+Ogarnąć materiały/dokumentacje.
+Zacząć pisać kod.
