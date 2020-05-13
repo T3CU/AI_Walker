@@ -4,11 +4,20 @@ Jebać HCI
 Spotkanie 1. Piątek 10-12 (Zrobić laby z AI dla doświadczenia)
 Potem co 2-3 dni
 -----------------------
-Spotkanie 2. Poniedziałek po labach z AI
+Spotkanie 2. Poniedziałek po labortoriach z AI
 Zaznajomić się z kodem środwiska
 Zobaczyć implementację agentów w innych rozwiązaniach
 (opcjonalne) zacząć pisać agenta
 -----------------------
-Spotkanie 3. Środa między 16-18
+Spotkanie 3. Wtorek 21
 Ogarnąć materiały/dokumentacje.
-Zacząć pisać kod.
+Analiza pierwszych kodów.
+Algorytmy DQN i DDPG 
+-----------------------
+Spotkanie 4. Środa 20:30
+Implementacja Q learning network.
+Dalsze analizowanie dostępnych bibliotek
+Skupienie się na Keral-rl
+-----------------------
+Spotkanie 5. Czwartek 16 (po Keynote Nvidii)
+Dalsze analizy a pro po Deep Q learning
