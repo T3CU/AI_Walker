@@ -1,2 +1,2 @@
 # AI_Walker
-Solution for BipedalWalkerHardcore-v2 
+Solution for BipedalWalkerHardcore-v3 
